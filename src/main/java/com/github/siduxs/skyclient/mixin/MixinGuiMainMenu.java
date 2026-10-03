@@ -1,4 +1,4 @@
-package com.example.mixin;
+package com.github.siduxs.skyclient.mixin;
 
 import net.minecraft.client.gui.GuiMainMenu;
 import org.spongepowered.asm.mixin.Mixin;
